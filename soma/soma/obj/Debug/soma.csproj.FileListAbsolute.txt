@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\soma\soma\bin\Debug\soma.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\soma\soma\bin\Debug\soma.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\soma\soma\bin\Debug\soma.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\soma\soma\obj\Debug\soma.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\soma\soma\obj\Debug\soma.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\soma\soma\obj\Debug\soma.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\soma\soma\obj\Debug\soma.pdb

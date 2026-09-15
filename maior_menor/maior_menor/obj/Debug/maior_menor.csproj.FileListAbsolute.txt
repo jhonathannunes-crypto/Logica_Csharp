@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\maior_menor\maior_menor\obj\Debug\maior_menor.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\maior_menor\maior_menor\obj\Debug\maior_menor.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\maior_menor\maior_menor\bin\Debug\maior_menor.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\maior_menor\maior_menor\bin\Debug\maior_menor.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\maior_menor\maior_menor\bin\Debug\maior_menor.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\maior_menor\maior_menor\obj\Debug\maior_menor.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\maior_menor\maior_menor\obj\Debug\maior_menor.pdb

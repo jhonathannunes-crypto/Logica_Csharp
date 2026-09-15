@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\maior que 100\maior que 100\bin\Debug\maior que 100.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\maior que 100\maior que 100\bin\Debug\maior que 100.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\maior que 100\maior que 100\bin\Debug\maior que 100.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\maior que 100\maior que 100\obj\Debug\maior que 100.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\maior que 100\maior que 100\obj\Debug\maior que 100.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\maior que 100\maior que 100\obj\Debug\maior que 100.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\maior que 100\maior que 100\obj\Debug\maior que 100.pdb

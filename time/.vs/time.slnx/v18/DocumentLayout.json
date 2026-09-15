@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhonathan.nbatistell\\Documents\\C#\\time\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40479C28-82A5-4D34-8017-1C32F5B8D629}|time\\time.csproj|c:\\users\\jhonathan.nbatistell\\documents\\c#\\time\\time\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40479C28-82A5-4D34-8017-1C32F5B8D629}|time\\time.csproj|solutionrelative:time\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhonathan.nbatistell\\Documents\\C#\\time\\time\\Program.cs",
+              "RelativeDocumentMoniker": "time\\Program.cs",
+              "ToolTip": "C:\\Users\\jhonathan.nbatistell\\Documents\\C#\\time\\time\\Program.cs",
+              "RelativeToolTip": "time\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T14:01:50.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

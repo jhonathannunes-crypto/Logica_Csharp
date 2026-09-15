@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\maior_numero\maior_numero\bin\Debug\maior_numero.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\maior_numero\maior_numero\bin\Debug\maior_numero.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\maior_numero\maior_numero\bin\Debug\maior_numero.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\maior_numero\maior_numero\obj\Debug\maior_numero.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\maior_numero\maior_numero\obj\Debug\maior_numero.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\maior_numero\maior_numero\obj\Debug\maior_numero.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\maior_numero\maior_numero\obj\Debug\maior_numero.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhonathan.nbatistell\\Documents\\C#\\soma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A17FCBF-FE27-4B73-A627-9B9BBDB7B2C4}|soma\\soma.csproj|c:\\users\\jhonathan.nbatistell\\documents\\c#\\soma\\soma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A17FCBF-FE27-4B73-A627-9B9BBDB7B2C4}|soma\\soma.csproj|solutionrelative:soma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhonathan.nbatistell\\Documents\\C#\\soma\\soma\\Program.cs",
+              "RelativeDocumentMoniker": "soma\\Program.cs",
+              "ToolTip": "C:\\Users\\jhonathan.nbatistell\\Documents\\C#\\soma\\soma\\Program.cs*",
+              "RelativeToolTip": "soma\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:38:57.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

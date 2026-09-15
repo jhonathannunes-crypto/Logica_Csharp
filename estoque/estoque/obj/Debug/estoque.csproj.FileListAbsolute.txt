@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\estoque\estoque\bin\Debug\estoque.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\estoque\estoque\bin\Debug\estoque.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\estoque\estoque\bin\Debug\estoque.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\estoque\estoque\obj\Debug\estoque.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\estoque\estoque\obj\Debug\estoque.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\estoque\estoque\obj\Debug\estoque.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\estoque\estoque\obj\Debug\estoque.pdb

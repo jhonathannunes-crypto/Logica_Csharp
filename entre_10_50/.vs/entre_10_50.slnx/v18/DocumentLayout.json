@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhonathan.nbatistell\\Documents\\C#\\entre_10_50\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71C60DC6-4DC9-4DF6-9E10-6C2FE83429C1}|entre_10_50\\entre_10_50.csproj|c:\\users\\jhonathan.nbatistell\\documents\\c#\\entre_10_50\\entre_10_50\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C60DC6-4DC9-4DF6-9E10-6C2FE83429C1}|entre_10_50\\entre_10_50.csproj|solutionrelative:entre_10_50\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhonathan.nbatistell\\Documents\\C#\\entre_10_50\\entre_10_50\\Program.cs",
+              "RelativeDocumentMoniker": "entre_10_50\\Program.cs",
+              "ToolTip": "C:\\Users\\jhonathan.nbatistell\\Documents\\C#\\entre_10_50\\entre_10_50\\Program.cs",
+              "RelativeToolTip": "entre_10_50\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T14:48:30.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
