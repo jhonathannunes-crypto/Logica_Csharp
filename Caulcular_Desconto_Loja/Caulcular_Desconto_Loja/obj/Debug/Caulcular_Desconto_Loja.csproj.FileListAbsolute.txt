@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\Caulcular_Desconto_Loja\Caulcular_Desconto_Loja\bin\Debug\Caulcular_Desconto_Loja.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\Caulcular_Desconto_Loja\Caulcular_Desconto_Loja\bin\Debug\Caulcular_Desconto_Loja.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\Caulcular_Desconto_Loja\Caulcular_Desconto_Loja\bin\Debug\Caulcular_Desconto_Loja.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\Caulcular_Desconto_Loja\Caulcular_Desconto_Loja\obj\Debug\Caulcular_Desconto_Loja.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\Caulcular_Desconto_Loja\Caulcular_Desconto_Loja\obj\Debug\Caulcular_Desconto_Loja.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\Caulcular_Desconto_Loja\Caulcular_Desconto_Loja\obj\Debug\Caulcular_Desconto_Loja.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\Caulcular_Desconto_Loja\Caulcular_Desconto_Loja\obj\Debug\Caulcular_Desconto_Loja.pdb

@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\Adega\Adega\bin\Debug\Adega.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\Adega\Adega\bin\Debug\Adega.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\Adega\Adega\bin\Debug\Adega.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\Adega\Adega\obj\Debug\Adega.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\Adega\Adega\obj\Debug\Adega.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\Adega\Adega\obj\Debug\Adega.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\Adega\Adega\obj\Debug\Adega.pdb
