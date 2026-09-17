@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\Jogo_de_adivinhação\Jogo_de_adivinhação\obj\Debug\Jogo_de_adivinhação.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\Jogo_de_adivinhação\Jogo_de_adivinhação\obj\Debug\Jogo_de_adivinhação.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\Jogo_de_adivinhação\Jogo_de_adivinhação\bin\Debug\Jogo_de_adivinhação.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\Jogo_de_adivinhação\Jogo_de_adivinhação\bin\Debug\Jogo_de_adivinhação.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\Jogo_de_adivinhação\Jogo_de_adivinhação\bin\Debug\Jogo_de_adivinhação.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\Jogo_de_adivinhação\Jogo_de_adivinhação\obj\Debug\Jogo_de_adivinhação.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\Jogo_de_adivinhação\Jogo_de_adivinhação\obj\Debug\Jogo_de_adivinhação.pdb

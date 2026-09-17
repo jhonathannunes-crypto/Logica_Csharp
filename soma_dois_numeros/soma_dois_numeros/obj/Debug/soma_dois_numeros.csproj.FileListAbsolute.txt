@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\soma_dois_numeros\soma_dois_numeros\obj\Debug\soma_dois_numeros.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\soma_dois_numeros\soma_dois_numeros\obj\Debug\soma_dois_numeros.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\soma_dois_numeros\soma_dois_numeros\bin\Debug\soma_dois_numeros.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\soma_dois_numeros\soma_dois_numeros\bin\Debug\soma_dois_numeros.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\soma_dois_numeros\soma_dois_numeros\bin\Debug\soma_dois_numeros.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\soma_dois_numeros\soma_dois_numeros\obj\Debug\soma_dois_numeros.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\soma_dois_numeros\soma_dois_numeros\obj\Debug\soma_dois_numeros.pdb

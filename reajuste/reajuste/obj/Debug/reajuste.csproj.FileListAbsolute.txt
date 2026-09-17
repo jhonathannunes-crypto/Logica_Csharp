@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\reajuste\reajuste\bin\Debug\reajuste.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\reajuste\reajuste\bin\Debug\reajuste.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\reajuste\reajuste\bin\Debug\reajuste.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\reajuste\reajuste\obj\Debug\reajuste.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\reajuste\reajuste\obj\Debug\reajuste.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\reajuste\reajuste\obj\Debug\reajuste.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\reajuste\reajuste\obj\Debug\reajuste.pdb

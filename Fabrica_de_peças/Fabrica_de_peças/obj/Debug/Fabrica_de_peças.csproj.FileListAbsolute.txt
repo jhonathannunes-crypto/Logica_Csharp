@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\Fabrica_de_peças\Fabrica_de_peças\obj\Debug\Fabrica_de_peças.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\Fabrica_de_peças\Fabrica_de_peças\obj\Debug\Fabrica_de_peças.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\Fabrica_de_peças\Fabrica_de_peças\bin\Debug\Fabrica_de_peças.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\Fabrica_de_peças\Fabrica_de_peças\bin\Debug\Fabrica_de_peças.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\Fabrica_de_peças\Fabrica_de_peças\bin\Debug\Fabrica_de_peças.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\Fabrica_de_peças\Fabrica_de_peças\obj\Debug\Fabrica_de_peças.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\Fabrica_de_peças\Fabrica_de_peças\obj\Debug\Fabrica_de_peças.pdb
