@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\pagamento\pagamento\bin\Debug\pagamento.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\pagamento\pagamento\bin\Debug\pagamento.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\pagamento\pagamento\bin\Debug\pagamento.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\pagamento\pagamento\obj\Debug\pagamento.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\pagamento\pagamento\obj\Debug\pagamento.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\pagamento\pagamento\obj\Debug\pagamento.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\pagamento\pagamento\obj\Debug\pagamento.pdb

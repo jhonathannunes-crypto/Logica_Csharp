@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\a_b\a_b\bin\Debug\a_b.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\a_b\a_b\bin\Debug\a_b.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\a_b\a_b\bin\Debug\a_b.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\a_b\a_b\obj\Debug\a_b.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\a_b\a_b\obj\Debug\a_b.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\a_b\a_b\obj\Debug\a_b.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\a_b\a_b\obj\Debug\a_b.pdb

@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\anos\anos\bin\Debug\anos.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\anos\anos\bin\Debug\anos.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\anos\anos\bin\Debug\anos.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\anos\anos\obj\Debug\anos.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\anos\anos\obj\Debug\anos.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\anos\anos\obj\Debug\anos.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\anos\anos\obj\Debug\anos.pdb

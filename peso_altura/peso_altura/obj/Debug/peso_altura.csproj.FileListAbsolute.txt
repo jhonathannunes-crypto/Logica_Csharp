@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\peso_altura\peso_altura\bin\Debug\peso_altura.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\peso_altura\peso_altura\bin\Debug\peso_altura.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\peso_altura\peso_altura\bin\Debug\peso_altura.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\peso_altura\peso_altura\obj\Debug\peso_altura.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\peso_altura\peso_altura\obj\Debug\peso_altura.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\peso_altura\peso_altura\obj\Debug\peso_altura.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\peso_altura\peso_altura\obj\Debug\peso_altura.pdb
