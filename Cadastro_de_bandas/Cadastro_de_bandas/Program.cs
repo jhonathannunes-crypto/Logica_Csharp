@@ -46,7 +46,7 @@ namespace Cadastro_de_bandas
             Console.ForegroundColor= ConsoleColor.Green;
             Console.WriteLine("1 - Cadastrar Album da Banada");
             Console.WriteLine("2 - Cadastrar Album do Artista ");// ano, Nome artista , qtd album , qtd vendas
-            Console.WriteLine("3 - Cadastrar Músicas "); // digitar a quantidade de musicas( bome musica, duração, premiação
+            Console.WriteLine("3 - Cadastrar Músicas "); // digitar a quantidade de musicas( nome musica, duração, premiação
             Console.WriteLine("4 - sair do programa");
             Console.WriteLine(" ------>");
             Console.ResetColor();
@@ -184,10 +184,10 @@ namespace Cadastro_de_bandas
 
         static void Cadastrar_Musicas()
         {
-            double qtdmusicas, duracao = 0, premiacao;
+            double  duracao, premiacao;
             string nomeMusica;
 
-
+            int qtdmusicas = 0, qtdmusicasdigitada = 0;
 
 
 
@@ -210,15 +210,16 @@ namespace Cadastro_de_bandas
 ╚═╝░░░░░╚═╝░╚═════╝░╚═════╝░╚═╝░╚════╝░╚═╝░░╚═╝╚═════╝░");
 
             Console.ResetColor();
+            Console.WriteLine("Digite quantas musicas deseja adicionar ");
+            qtdmusicasdigitada = int.Parse(Console.ReadLine());
 
-            while (duracao != 5) 
+            while (qtdmusicasdigitada != qtdmusicas) 
             {
 
                 Console.WriteLine("Qual o Nome da Musica: ");
                 nomeMusica = Console.ReadLine();
 
-                Console.WriteLine("Qual a quantidade de músicas: ");
-                qtdmusicas = double.Parse(Console.ReadLine());
+                
 
                 Console.WriteLine("Qual a duração das musicas: ");
                 duracao = double.Parse(Console.ReadLine());
@@ -228,13 +229,12 @@ namespace Cadastro_de_bandas
 
                 Console.WriteLine("\nCadastro realizado com sucesso: ");
                 Console.WriteLine("\n" + nomeMusica);
-                Console.WriteLine("\n" + qtdmusicas);
                 Console.WriteLine("\n" + duracao);
                 Console.WriteLine("\n" + premiacao);
 
 
                 Thread.Sleep(3000);
-
+                qtdmusicas++;
             }
 
 

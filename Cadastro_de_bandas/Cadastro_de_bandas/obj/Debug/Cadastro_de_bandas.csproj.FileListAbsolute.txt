@@ -5,3 +5,10 @@ C:\Users\jhonathan.nbatistell\Documents\C#\Cadastro_de_bandas\Cadastro_de_bandas
 C:\Users\jhonathan.nbatistell\Documents\C#\Cadastro_de_bandas\Cadastro_de_bandas\obj\Debug\Cadastro_de_bandas.csproj.CoreCompileInputs.cache
 C:\Users\jhonathan.nbatistell\Documents\C#\Cadastro_de_bandas\Cadastro_de_bandas\obj\Debug\Cadastro_de_bandas.exe
 C:\Users\jhonathan.nbatistell\Documents\C#\Cadastro_de_bandas\Cadastro_de_bandas\obj\Debug\Cadastro_de_bandas.pdb
+C:\Users\jhonathan.nbatistell\Documents\GitHub\Logica_Csharp\Cadastro_de_bandas\Cadastro_de_bandas\bin\Debug\Cadastro_de_bandas.exe.config
+C:\Users\jhonathan.nbatistell\Documents\GitHub\Logica_Csharp\Cadastro_de_bandas\Cadastro_de_bandas\bin\Debug\Cadastro_de_bandas.exe
+C:\Users\jhonathan.nbatistell\Documents\GitHub\Logica_Csharp\Cadastro_de_bandas\Cadastro_de_bandas\bin\Debug\Cadastro_de_bandas.pdb
+C:\Users\jhonathan.nbatistell\Documents\GitHub\Logica_Csharp\Cadastro_de_bandas\Cadastro_de_bandas\obj\Debug\Cadastro_de_bandas.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\GitHub\Logica_Csharp\Cadastro_de_bandas\Cadastro_de_bandas\obj\Debug\Cadastro_de_bandas.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\GitHub\Logica_Csharp\Cadastro_de_bandas\Cadastro_de_bandas\obj\Debug\Cadastro_de_bandas.exe
+C:\Users\jhonathan.nbatistell\Documents\GitHub\Logica_Csharp\Cadastro_de_bandas\Cadastro_de_bandas\obj\Debug\Cadastro_de_bandas.pdb
