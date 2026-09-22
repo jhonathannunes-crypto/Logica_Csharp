@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\cadastro_livro\cadastro_livro\obj\Debug\cadastro_livro.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\cadastro_livro\cadastro_livro\obj\Debug\cadastro_livro.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\cadastro_livro\cadastro_livro\bin\Debug\cadastro_livro.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\cadastro_livro\cadastro_livro\bin\Debug\cadastro_livro.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\cadastro_livro\cadastro_livro\bin\Debug\cadastro_livro.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\cadastro_livro\cadastro_livro\obj\Debug\cadastro_livro.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\cadastro_livro\cadastro_livro\obj\Debug\cadastro_livro.pdb
