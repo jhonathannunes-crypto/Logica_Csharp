@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\Clinica_de_podologia\Clinica_de_podologia\bin\Debug\Clinica_de_podologia.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\Clinica_de_podologia\Clinica_de_podologia\bin\Debug\Clinica_de_podologia.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\Clinica_de_podologia\Clinica_de_podologia\bin\Debug\Clinica_de_podologia.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\Clinica_de_podologia\Clinica_de_podologia\obj\Debug\Clinica_de_podologia.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\Clinica_de_podologia\Clinica_de_podologia\obj\Debug\Clinica_de_podologia.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\Clinica_de_podologia\Clinica_de_podologia\obj\Debug\Clinica_de_podologia.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\Clinica_de_podologia\Clinica_de_podologia\obj\Debug\Clinica_de_podologia.pdb

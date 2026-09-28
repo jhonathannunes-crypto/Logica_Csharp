@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\INTERNAÇÃO_HOSPITALAR\INTERNAÇÃO_HOSPITALAR\bin\Debug\INTERNAÇÃO_HOSPITALAR.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\INTERNAÇÃO_HOSPITALAR\INTERNAÇÃO_HOSPITALAR\bin\Debug\INTERNAÇÃO_HOSPITALAR.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\INTERNAÇÃO_HOSPITALAR\INTERNAÇÃO_HOSPITALAR\bin\Debug\INTERNAÇÃO_HOSPITALAR.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\INTERNAÇÃO_HOSPITALAR\INTERNAÇÃO_HOSPITALAR\obj\Debug\INTERNAÇÃO_HOSPITALAR.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\INTERNAÇÃO_HOSPITALAR\INTERNAÇÃO_HOSPITALAR\obj\Debug\INTERNAÇÃO_HOSPITALAR.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\INTERNAÇÃO_HOSPITALAR\INTERNAÇÃO_HOSPITALAR\obj\Debug\INTERNAÇÃO_HOSPITALAR.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\INTERNAÇÃO_HOSPITALAR\INTERNAÇÃO_HOSPITALAR\obj\Debug\INTERNAÇÃO_HOSPITALAR.pdb
