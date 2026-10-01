@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\sistema_frutas\sistema_frutas\bin\Debug\sistema_frutas.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\sistema_frutas\sistema_frutas\bin\Debug\sistema_frutas.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\sistema_frutas\sistema_frutas\bin\Debug\sistema_frutas.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\sistema_frutas\sistema_frutas\obj\Debug\sistema_frutas.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\sistema_frutas\sistema_frutas\obj\Debug\sistema_frutas.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\sistema_frutas\sistema_frutas\obj\Debug\sistema_frutas.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\sistema_frutas\sistema_frutas\obj\Debug\sistema_frutas.pdb

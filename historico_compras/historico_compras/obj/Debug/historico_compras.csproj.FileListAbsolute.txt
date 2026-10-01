@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\historico_compras\historico_compras\bin\Debug\historico_compras.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\historico_compras\historico_compras\bin\Debug\historico_compras.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\historico_compras\historico_compras\bin\Debug\historico_compras.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\historico_compras\historico_compras\obj\Debug\historico_compras.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\historico_compras\historico_compras\obj\Debug\historico_compras.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\historico_compras\historico_compras\obj\Debug\historico_compras.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\historico_compras\historico_compras\obj\Debug\historico_compras.pdb

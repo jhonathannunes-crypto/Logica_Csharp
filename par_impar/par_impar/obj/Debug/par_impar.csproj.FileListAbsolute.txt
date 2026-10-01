@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\par_impar\par_impar\bin\Debug\par_impar.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\par_impar\par_impar\bin\Debug\par_impar.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\par_impar\par_impar\bin\Debug\par_impar.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\par_impar\par_impar\obj\Debug\par_impar.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\par_impar\par_impar\obj\Debug\par_impar.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\par_impar\par_impar\obj\Debug\par_impar.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\par_impar\par_impar\obj\Debug\par_impar.pdb

@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\Pokedex\Pokedex\obj\Debug\Pokedex.pdb

@@ -1,0 +1,7 @@
+C:\Users\jhonathan.nbatistell\Documents\C#\Controle_estoque\Controle_estoque\bin\Debug\Controle_estoque.exe.config
+C:\Users\jhonathan.nbatistell\Documents\C#\Controle_estoque\Controle_estoque\bin\Debug\Controle_estoque.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\Controle_estoque\Controle_estoque\bin\Debug\Controle_estoque.pdb
+C:\Users\jhonathan.nbatistell\Documents\C#\Controle_estoque\Controle_estoque\obj\Debug\Controle_estoque.csproj.AssemblyReference.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\Controle_estoque\Controle_estoque\obj\Debug\Controle_estoque.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.nbatistell\Documents\C#\Controle_estoque\Controle_estoque\obj\Debug\Controle_estoque.exe
+C:\Users\jhonathan.nbatistell\Documents\C#\Controle_estoque\Controle_estoque\obj\Debug\Controle_estoque.pdb
