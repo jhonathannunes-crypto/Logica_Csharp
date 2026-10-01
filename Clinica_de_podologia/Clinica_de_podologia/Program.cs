@@ -117,17 +117,31 @@ namespace Clinica_de_podologia
                         break;
                     case 5:
 
-                        
-        
+
+                        ListaConsulta();
+                        Console.Clear();
 
 
-                            break;
+                        break;
                     case 6:
+
+                        ListaCliente();
+                        Console.Clear();
+
+                        listaPodologo();
+                        Console.Clear();
+
+                        listaProcedimento();
+                        Console.Clear();
+
+                        ListaConsulta();
+                        Console.Clear();
 
 
                         break;
                     case 0:
 
+                        Console.WriteLine("SAINDO!");
 
                         break;
 
@@ -208,25 +222,8 @@ namespace Clinica_de_podologia
             Console.WriteLine("O paciente possui alergias ou doenças?: ");
             VariaveisGlobais.ObservaçõesAnamnese = Console.ReadLine();
            
-            Console.Clear();
-            Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine(@"
-░█████╗░░█████╗░██████╗░░█████╗░░██████╗████████╗██████╗░░█████╗░██████╗░
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗
-██║░░╚═╝███████║██║░░██║███████║╚█████╗░░░░██║░░░██████╔╝███████║██████╔╝
-██║░░██╗██╔══██║██║░░██║██╔══██║░╚═══██╗░░░██║░░░██╔══██╗██╔══██║██╔══██╗
-╚█████╔╝██║░░██║██████╔╝██║░░██║██████╔╝░░░██║░░░██║░░██║██║░░██║██║░░██║
-░╚════╝░╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
-
-██████╗░░█████╗░██████╗░░█████╗░██╗░░░░░░█████╗░░██████╗░░█████╗░
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗██╔════╝░██╔══██╗
-██████╔╝██║░░██║██║░░██║██║░░██║██║░░░░░██║░░██║██║░░██╗░██║░░██║
-██╔═══╝░██║░░██║██║░░██║██║░░██║██║░░░░░██║░░██║██║░░╚██╗██║░░██║
-██║░░░░░╚█████╔╝██████╔╝╚█████╔╝███████╗╚█████╔╝╚██████╔╝╚█████╔╝
-╚═╝░░░░░░╚════╝░╚═════╝░░╚════╝░╚══════╝░╚════╝░░╚═════╝░░╚════╝░");
-
-            Console.ResetColor();
-
+           
+           
             Console.WriteLine("\nCadastro realizado com sucesso!! ");
             Console.WriteLine("\n" + VariaveisGlobais.ID_cliente);
             Console.WriteLine("\n" + VariaveisGlobais.Nome_cliente);
@@ -239,6 +236,42 @@ namespace Clinica_de_podologia
             Thread.Sleep(5000);
 
         }
+
+        static void ListaCliente()
+
+
+        {
+
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine(@"
+██╗░░░░░██╗░██████╗████████╗░█████╗░  ░█████╗░██╗░░░░░██╗███████╗███╗░░██╗████████╗███████╗
+██║░░░░░██║██╔════╝╚══██╔══╝██╔══██╗  ██╔══██╗██║░░░░░██║██╔════╝████╗░██║╚══██╔══╝██╔════╝
+██║░░░░░██║╚█████╗░░░░██║░░░███████║  ██║░░╚═╝██║░░░░░██║█████╗░░██╔██╗██║░░░██║░░░█████╗░░
+██║░░░░░██║░╚═══██╗░░░██║░░░██╔══██║  ██║░░██╗██║░░░░░██║██╔══╝░░██║╚████║░░░██║░░░██╔══╝░░
+███████╗██║██████╔╝░░░██║░░░██║░░██║  ╚█████╔╝███████╗██║███████╗██║░╚███║░░░██║░░░███████╗
+╚══════╝╚═╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝  ░╚════╝░╚══════╝╚═╝╚══════╝╚═╝░░╚══╝░░░╚═╝░░░╚══════╝");
+            Console.ResetColor();
+
+
+
+            Console.WriteLine("\nID_cliente:" + VariaveisGlobais.ID_cliente);
+            Console.WriteLine("\nNome_cliente:" + VariaveisGlobais.Nome_cliente);
+            Console.WriteLine("\nCPF_cliente:" + VariaveisGlobais.CPF_cliente);
+            Console.WriteLine("\nTelefone_cliente:" + VariaveisGlobais.Telefone_cliente);
+            Console.WriteLine("\ndata_nascimento:" + VariaveisGlobais.data_nascimento);
+            Console.WriteLine("\nPossui_Diabetes:" + VariaveisGlobais.Possui_Diabetes);
+            Console.WriteLine("\nObservaçõesAnamnese:" + VariaveisGlobais.ObservaçõesAnamnese);
+
+            Thread.Sleep(5000);
+
+
+        }
+
+
+
+
+
 
         static void CadastrarPodólogo()
         {
@@ -282,6 +315,33 @@ namespace Clinica_de_podologia
             Console.WriteLine("\n" + VariaveisGlobais.Especialidade);
             Console.WriteLine("\n" + VariaveisGlobais.Telefone_podologo);
            
+
+            Thread.Sleep(5000);
+
+
+        }
+
+        static void listaPodologo()
+        {
+
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine(@"
+██╗░░░░░██╗░██████╗████████╗░█████╗░  ██████╗░░█████╗░██████╗░░█████╗░██╗░░░░░░█████╗░░██████╗░░█████╗░
+██║░░░░░██║██╔════╝╚══██╔══╝██╔══██╗  ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗██╔════╝░██╔══██╗
+██║░░░░░██║╚█████╗░░░░██║░░░███████║  ██████╔╝██║░░██║██║░░██║██║░░██║██║░░░░░██║░░██║██║░░██╗░██║░░██║
+██║░░░░░██║░╚═══██╗░░░██║░░░██╔══██║  ██╔═══╝░██║░░██║██║░░██║██║░░██║██║░░░░░██║░░██║██║░░╚██╗██║░░██║
+███████╗██║██████╔╝░░░██║░░░██║░░██║  ██║░░░░░╚█████╔╝██████╔╝╚█████╔╝███████╗╚█████╔╝╚██████╔╝╚█████╔╝
+╚══════╝╚═╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝  ╚═╝░░░░░░╚════╝░╚═════╝░░╚════╝░╚══════╝░╚════╝░░╚═════╝░░╚════╝░");
+            Console.ResetColor();
+
+
+            Console.WriteLine("\nID_podologo:" + VariaveisGlobais.ID_podologo);
+            Console.WriteLine("\nNome_podologo:" + VariaveisGlobais.Nome_podologo);
+            Console.WriteLine("\nRegistroProficional:" + VariaveisGlobais.RegistroProficional);
+            Console.WriteLine("\nEspecialidade:" + VariaveisGlobais.Especialidade);
+            Console.WriteLine("\nTelefone_podologo:" + VariaveisGlobais.Telefone_podologo);
+
 
             Thread.Sleep(5000);
 
@@ -344,7 +404,7 @@ namespace Clinica_de_podologia
                 Console.WriteLine("\n" + VariaveisGlobais.valor);
 
 
-                Thread.Sleep(10000);
+                Thread.Sleep(5000);
 
 
 
@@ -354,6 +414,41 @@ namespace Clinica_de_podologia
 
         }
 
+        static void listaProcedimento()
+        {
+
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine(@"
+██╗░░░░░██╗░██████╗████████╗░█████╗░
+██║░░░░░██║██╔════╝╚══██╔══╝██╔══██╗
+██║░░░░░██║╚█████╗░░░░██║░░░███████║
+██║░░░░░██║░╚═══██╗░░░██║░░░██╔══██║
+███████╗██║██████╔╝░░░██║░░░██║░░██║
+╚══════╝╚═╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝
+
+██████╗░██████╗░░█████╗░░█████╗░███████╗██████╗░██╗███╗░░░███╗███████╗███╗░░██╗████████╗░█████╗░
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██║████╗░████║██╔════╝████╗░██║╚══██╔══╝██╔══██╗
+██████╔╝██████╔╝██║░░██║██║░░╚═╝█████╗░░██║░░██║██║██╔████╔██║█████╗░░██╔██╗██║░░░██║░░░██║░░██║
+██╔═══╝░██╔══██╗██║░░██║██║░░██╗██╔══╝░░██║░░██║██║██║╚██╔╝██║██╔══╝░░██║╚████║░░░██║░░░██║░░██║
+██║░░░░░██║░░██║╚█████╔╝╚█████╔╝███████╗██████╔╝██║██║░╚═╝░██║███████╗██║░╚███║░░░██║░░░╚█████╔╝
+╚═╝░░░░░╚═╝░░╚═╝░╚════╝░░╚════╝░╚══════╝╚═════╝░╚═╝╚═╝░░░░░╚═╝╚══════╝╚═╝░░╚══╝░░░╚═╝░░░░╚════╝░");
+            Console.ResetColor();
+
+
+
+            Console.WriteLine("\nID_procedimento:" + VariaveisGlobais.ID_procedimento);
+
+            Console.WriteLine("\nNome_procedimento:" + VariaveisGlobais.Nome_procedimento);
+
+            Console.WriteLine("\nDuracaoMinutos:" + VariaveisGlobais.DuracaoMinutos);
+
+            Console.WriteLine("\nvalor:" + VariaveisGlobais.valor);
+
+
+            Thread.Sleep(5000);
+
+        }
 
         static void AgendarConsulta()
 
@@ -476,12 +571,45 @@ namespace Clinica_de_podologia
 
 
 
-            Thread.Sleep(10000);
+            Thread.Sleep(5000);
 
         }
 
-       
 
+        static void ListaConsulta()
+        {
+            Console.Clear();
+
+            Console.ForegroundColor = ConsoleColor.Cyan;
+
+            Console.WriteLine(@"
+██╗░░░░░██╗░██████╗████████╗░█████╗░  ░█████╗░░█████╗░███╗░░██╗░██████╗██╗░░░██╗██╗░░░░░████████╗░█████╗░
+██║░░░░░██║██╔════╝╚══██╔══╝██╔══██╗  ██╔══██╗██╔══██╗████╗░██║██╔════╝██║░░░██║██║░░░░░╚══██╔══╝██╔══██╗
+██║░░░░░██║╚█████╗░░░░██║░░░███████║  ██║░░╚═╝██║░░██║██╔██╗██║╚█████╗░██║░░░██║██║░░░░░░░░██║░░░███████║
+██║░░░░░██║░╚═══██╗░░░██║░░░██╔══██║  ██║░░██╗██║░░██║██║╚████║░╚═══██╗██║░░░██║██║░░░░░░░░██║░░░██╔══██║
+███████╗██║██████╔╝░░░██║░░░██║░░██║  ╚█████╔╝╚█████╔╝██║░╚███║██████╔╝╚██████╔╝███████╗░░░██║░░░██║░░██║
+╚══════╝╚═╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝  ░╚════╝░░╚════╝░╚═╝░░╚══╝╚═════╝░░╚═════╝░╚══════╝░░░╚═╝░░░╚═╝░░╚═╝");
+             Console.ResetColor();
+
+
+            Console.WriteLine("\nID_procedimento:" + VariaveisGlobais.ID_procedimento);
+
+            Console.WriteLine("\nCliented_agendamento:" + VariaveisGlobais.Cliented_agendamento);
+
+            Console.WriteLine("\nPologold_agendament:" + VariaveisGlobais.Pologold_agendamento);
+
+            Console.WriteLine("\nProcedimentold_agendamento:" + VariaveisGlobais.Procedimentold_agendamento);
+
+            Console.WriteLine("\nDataHora_agendamento:" + VariaveisGlobais.DataHora_agendamento);
+
+            Console.WriteLine("\nStatus_agendamento:" + VariaveisGlobais.Status_agendamento);
+
+
+            Thread.Sleep(5000);
+
+
+
+        }
 
 
 

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jhonathan.nbatistell\\Documents\\C#\\Clinica_de_podologia\\",
+  "WorkspaceRootPath": "C:\\Users\\jhonathan.nbatistell\\Documents\\novo\\Logica_Csharp\\Clinica_de_podologia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F16B33E-7B6D-49CA-A30C-78C127B6467A}|Clinica_de_podologia\\Clinica_de_podologia.csproj|c:\\users\\jhonathan.nbatistell\\documents\\c#\\clinica_de_podologia\\clinica_de_podologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F16B33E-7B6D-49CA-A30C-78C127B6467A}|Clinica_de_podologia\\Clinica_de_podologia.csproj|c:\\users\\jhonathan.nbatistell\\documents\\novo\\logica_csharp\\clinica_de_podologia\\clinica_de_podologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F16B33E-7B6D-49CA-A30C-78C127B6467A}|Clinica_de_podologia\\Clinica_de_podologia.csproj|solutionrelative:clinica_de_podologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jhonathan.nbatistell\\Documents\\C#\\Clinica_de_podologia\\Clinica_de_podologia\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhonathan.nbatistell\\Documents\\novo\\Logica_Csharp\\Clinica_de_podologia\\Clinica_de_podologia\\Program.cs",
               "RelativeDocumentMoniker": "Clinica_de_podologia\\Program.cs",
-              "ToolTip": "C:\\Users\\jhonathan.nbatistell\\Documents\\C#\\Clinica_de_podologia\\Clinica_de_podologia\\Program.cs",
-              "RelativeToolTip": "Clinica_de_podologia\\Program.cs",
-              "ViewState": "AgIAAMUAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\jhonathan.nbatistell\\Documents\\novo\\Logica_Csharp\\Clinica_de_podologia\\Clinica_de_podologia\\Program.cs*",
+              "RelativeToolTip": "Clinica_de_podologia\\Program.cs*",
+              "ViewState": "AgIAAJ8BAAAAAAAAAAAIwLEBAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T12:40:19.933Z",
               "EditorCaption": ""
